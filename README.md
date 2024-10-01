@@ -3,7 +3,7 @@
 <h3>Hi, I am Yashraj Tiwari</h3>
 </div>
 <div align="center">
-  <table>
+  <table style="border-radius: 5px">
   <tr>
     <td>One</td>
     <td>Two</td>
