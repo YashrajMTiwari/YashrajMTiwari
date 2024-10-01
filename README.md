@@ -2,9 +2,11 @@
 <div align="center">
 <h3>Hi, I am Yashraj Tiwari</h3>
 </div>
-<table>
+<div align="center">
+  <table>
   <tr>
     <td>One</td>
     <td>Two</td>
   </tr>
 </table>
+</div>
