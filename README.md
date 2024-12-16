@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a software developer passionate about coding a
 ## About Me
 - **Education**: Bachelor's in Computer Science | Master's in Computer Applications
 - **Languages**: Java, Python
-- **Currently Learning**: Spring Boot, C++
 
 ## Let's Connect
 - [**LinkedIn**](https://www.linkedin.com/in/yashraj-tiwari-8411381a1?)
