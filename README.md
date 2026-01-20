@@ -21,7 +21,7 @@ I'm actively exploring **AI integration on mobile and edge devices**, along with
 
 ## Let's Connect
 
-* **LinkedIn**: [https://www.linkedin.com/in/yashraj-tiwari-8411381a1](https://www.linkedin.com/in/yashraj-tiwari-8411381a1)
-* **Email**: [yashrajtiwari@proton.me](mailto:yashrajtiwari@proton.me)
+- [**LinkedIn**](https://www.linkedin.com/in/yashraj-tiwari-8411381a1?)
+- [**Email**](mailto:yashrajtiwari@proton.me)
 
 Thanks for stopping by!
