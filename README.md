@@ -2,13 +2,13 @@
 
 I'm a mobile app developer building cross-platform Android and iOS applications using Flutter.
 My primary focus is Dart, with Kotlin and Swift used for native implementations when required.
-I'm currently exploring efficient AI integration on mobile and edge devices, along with Augmented Reality technologies.
+I'm currently exploring efficient AI integration on mobile and edge devices.
 
 ## About Me
 
 * Bachelor's in Computer Science | Master's in Computer Applications
 * Flutter-focused mobile developer
-* Interests include on-device AI, edge computing, and AR
+* Interests include on-device AI, edge computing
 * Continuously learning, experimenting, and building
 
 ## Tech Stack
