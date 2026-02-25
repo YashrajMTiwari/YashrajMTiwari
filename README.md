@@ -1,23 +1,45 @@
-# Hi, I'm Yashraj Tiwari
+# Hi, I'm Yashraj Tiwari 👋
 
-I'm a mobile app developer building cross-platform Android and iOS applications using Flutter.
-My primary focus is Dart, with Kotlin and Swift used for native implementations when required.
-I'm currently exploring efficient AI integration on mobile and edge devices.
+Flutter developer building cross‑platform Android & iOS apps, experiments, and open‑source tools.
+
+I maintain **PuppetDigital** — an independent space where I publish Flutter packages, developer utilities, and practical experiments.
+
+🔗 Open‑source: [PuppetDigital](https://github.com/PuppetDigital)
+
+---
 
 ## About Me
 
-* Bachelor's in Computer Science | Master's in Computer Applications
-* Flutter-focused mobile developer
-* Interests include on-device AI, edge computing
-* Continuously learning, experimenting, and building
+* Flutter‑focused mobile developer
+* Works primarily with Dart
+* Uses Kotlin & Swift when native implementation is required
+* Interested in on‑device AI and edge computing
+* Constantly experimenting, learning, and building
 
-## Tech Stack
+---
 
-* **Primary Language**: Dart
-* **Mobile Framework**: Flutter
-* **Native Development**: Kotlin (Android), Swift (iOS)
+## What I Do
 
-## Let's Connect
+* Build mobile apps and prototypes
+* Create reusable Flutter packages
+* Explore practical AI integrations on mobile
+* Experiment with new tools and workflows
+
+Most reusable and published work lives at **[PuppetDigital](https://github.com/PuppetDigital)**.
+
+---
+
+## Interests
+
+* On‑device AI
+* Edge computing
+* Developer productivity tools
+* Efficient architectures in Flutter
+
+---
+
+
+## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/yashraj-tiwari-8411381a1)
 * [Email](mailto:yashrajtiwari@proton.me)
