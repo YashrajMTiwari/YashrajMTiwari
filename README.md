@@ -1,4 +1,4 @@
-# Hi, I'm Yashraj Tiwari 👋
+# Hi, I'm Yashraj Tiwari 
 
 Software engineer exploring the future of intelligent systems.
 
@@ -41,10 +41,10 @@ Always learning. Always building.
 
 ## Connect
 
-🌐 Website: https://yashrajtiwari.com
+Website: https://yashrajtiwari.com
 
-💼 LinkedIn: https://www.linkedin.com/in/yashraj-tiwari-8411381a1
+LinkedIn: https://www.linkedin.com/in/yashraj-tiwari-8411381a1
 
-📧 Email: [hello@yashrajtiwari.com](mailto:hello@yashrajtiwari.com)
+Email: [hello@yashrajtiwari.com](mailto:hello@yashrajtiwari.com)
 
-🐙 GitHub: https://github.com/YashrajMTiwari
+GitHub: https://github.com/YashrajMTiwari
