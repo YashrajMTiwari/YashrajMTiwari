@@ -1,47 +1,50 @@
 # Hi, I'm Yashraj Tiwari 👋
 
-Flutter developer building cross‑platform Android & iOS apps, experiments, and open‑source tools.
+Software engineer exploring the future of intelligent systems.
 
-I maintain **PuppetDigital** — an independent space where I publish Flutter packages, developer utilities, and practical experiments.
+**Edge AI · Systems · Reliability**
 
-🔗 Open‑source: [PuppetDigital](https://github.com/PuppetDigital)
+I enjoy building software, experimenting with AI, and creating tools that make development more enjoyable and efficient.
+
+Most of my professional experience has been in cross-platform application development, shipping products for Android, iOS, and the web. Beyond that, I'm interested in on-device intelligence, machine learning systems, and building software that runs reliably on everyday hardware.
+
+---
+
+## What I Work On
+
+* Mobile and cross-platform applications
+* Developer tools and open-source projects
+* On-device AI and edge computing
+* Systems and reliability
+* Experiments and side projects
+
+---
+
+## Current Interests
+
+* On-device AI
+* Edge computing
+* Intelligent systems
+* Efficient architectures
+* Developer productivity
+* Building reliable software
 
 ---
 
 ## About Me
 
-* Flutter‑focused mobile developer
-* Works primarily with Dart
-* Uses Kotlin & Swift when native implementation is required
-* Interested in on‑device AI and edge computing
-* Constantly experimenting, learning, and building
+When I'm not working, you'll usually find me building side projects, publishing open-source tools, or exploring ideas that seem interesting.
+
+Always learning. Always building.
 
 ---
-
-## What I Do
-
-* Build mobile apps and prototypes
-* Create reusable Flutter packages
-* Explore practical AI integrations on mobile
-* Experiment with new tools and workflows
-
-Most reusable and published work lives at **[PuppetDigital](https://github.com/PuppetDigital)**.
-
----
-
-## Interests
-
-* On‑device AI
-* Edge computing
-* Developer productivity tools
-* Efficient architectures in Flutter
-
----
-
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/yashraj-tiwari-8411381a1)
-* [Email](mailto:yashrajtiwari@proton.me)
+🌐 Website: https://yashrajtiwari.com
 
-Thanks for stopping by.
+💼 LinkedIn: https://www.linkedin.com/in/yashraj-tiwari-8411381a1
+
+📧 Email: [hello@yashrajtiwari.com](mailto:hello@yashrajtiwari.com)
+
+🐙 GitHub: https://github.com/YashrajMTiwari
